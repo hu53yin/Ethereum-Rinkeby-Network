@@ -22,3 +22,5 @@ Running Ethereum on Rinkeby-test-network by step by step instructions
   
   Example: 
   /Applications/'Ethereum Wallet'.app/Contents/MacOS/'Ethereum Wallet' --rpc /Users/huseyingurkan/Documents/Projects/ethereum-rinkeby/chaindata/geth.ipc
+
+https://www.rinkeby.io/#stats
