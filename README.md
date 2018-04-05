@@ -1,5 +1,5 @@
 # Ethereum Rinkeby Test Network
-Run Ethereum Rinkeby-test-network by step by step instructions
+Running Ethereum on Rinkeby-test-network by step by step instructions
 
 1) Create your Ethereum project folder.
 2) Create an empty folder it given "chaindata" name.
